@@ -1,0 +1,26 @@
+REFERENCES
+--------------
+
+[1] https://www.facebook.com/notes/facebook-engineering/scaling-facebook-to-500-million-users-and-beyond/409881258919
+[2] Diego Kreutz et al, "Software-Defined Networking: A Comprehensive Survey"
+[3] OPENFLOW SWITCH : http://archive.openflow.org/wp/learnmore/
+[4] MININET : http://mininet.org/
+[5] POX : https://openflow.stanford.edu/display/ONL/POX+Wiki
+[6] Hewlett-Packard Company http://www.hp.com/rnd/device_help/help/hpwnd/webhelp/HPJ3298A/utilization.htm
+[7] THROUGHPUT : http://en.wikipedia.org/wiki/Throughput
+[8] RESPONSE TIME : http://www.correlsense.com/product/additional-resources/glossary-of-application-performance-monitoring-terms/network-response-correlsense-online-glossary/
+[9] Yuanhao Zhou1, Li Ruan, Limin Xiao, Rui Liu, “A Method for Load Balancing based on Software Defined Networks”
+[10] SDN Prerequisite : Why Network Load Balancing is not the Same as Application Load Balancing: https://devcentral.f5.com/articles/sdn-prerequisite-why-network-load-balancing-is-not-the-same-as-application-load-balancing
+[11] Richard Wang, Dana Butnariu, and Jennifer Rexford – “OpenFlow-Based Server Load Balancing Gone Wild”
+[12] Internet Topology Zoo. http://www.topology-zoo.org/gallery.html
+[13] http://www.peplink.com/technology/load-balancing-algorithms/
+[14] http://www.ieee802.org/3/trunk_study/february98/congdon.pdf
+[15] POX API list. https://openflow.stanford.edu/display/ONL/POX+Wiki
+[16] SDN Tutorials. http://sdnhub.org/tutorials/pox/
+[17] MININET SETUP. http://sdnhub.org/resources/useful-mininet-setups/
+[18] Rajput I. S., Gupta D., “A Priority based Round Robin CPU Scheduling Algorithm for Real Time Systems” International Journal of Innovations in Engineering and Technology (IJIET), ISSN: 2319 - 1058, Vol. 1 Oct 2012.
+[19] B. Joshi, S. Hosseini, & K. Varivan, "A methodology for evaluating load balancing algorithms", Proc. 2nd international symposium on high Performance distributed computing, (pp. 216-223), 1993.
+[20] Mcheick, H. Mohammed, Z. R. Lakiss, “A. Evaluation of Load Balance Algorithms”. In Proceedings of Software Engineering Research, Management and Applications (SERA). Pages 104-109, 2011
+[21] http://blogs.citrix.com/2010/09/03/load-balancing-round-robin/
+[22] http://blogs.citrix.com/2010/10/01/load-balancing-weights/
+[23] http://blogs.citrix.com/2010/09/02/load-balancing-least-connections
